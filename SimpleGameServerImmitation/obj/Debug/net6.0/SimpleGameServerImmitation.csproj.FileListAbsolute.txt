@@ -1,0 +1,14 @@
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\bin\Debug\net6.0\SimpleGameServerImmitation.exe
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\bin\Debug\net6.0\SimpleGameServerImmitation.deps.json
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\bin\Debug\net6.0\SimpleGameServerImmitation.runtimeconfig.json
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\bin\Debug\net6.0\SimpleGameServerImmitation.dll
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\bin\Debug\net6.0\SimpleGameServerImmitation.pdb
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.AssemblyInfoInputs.cache
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.AssemblyInfo.cs
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.csproj.CoreCompileInputs.cache
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.dll
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\refint\SimpleGameServerImmitation.dll
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.pdb
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\SimpleGameServerImmitation.genruntimeconfig.cache
+C:\Users\vitus\Desktop\Vs Projects\SimpleGameServerImmitation\SimpleGameServerImmitation\obj\Debug\net6.0\ref\SimpleGameServerImmitation.dll
